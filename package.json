@@ -137,7 +137,7 @@
     "webpack-cli": "^5.1.1"
   },
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.6.4",
     "bignumber.js": "^9.1.1",
     "buffer": "^6.0.3",
     "detect-node": "^2.0.4",
